@@ -13,6 +13,17 @@
 - 「中文字體簡繁處理工具」[https://github.com/GuiWonder/TCFontCreator]
 
 
+## 開源授權規定
+- 本字型乃基於 SIL Open Font License 1.1 的開源專案。
+- 「原俠」、「GuanKiap」是本專案的保留名稱。
+- 任何人可以無償使用此字型，包含商用。無須告知原作者。
+- 您可自由傳送、分享此字型，或與其他軟體綑綁發行、銷售。捆包中必須同時包含授權文件檔（OFL.txt）。
+- 您可自由改造、衍生此字型並公開。修改後的字型必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發佈。
+- 在製作衍生字型時，字型名稱不可使用原有字型的「保留名稱」。
+- 依照 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 規定，**禁止單獨出售字型檔(ttf/otf)**。
+- 衍生字型不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授權許可下發行。
+
+
 ## 最新版本
 V1.01 - (2022/07/22) 「原俠正楷」初版
 
