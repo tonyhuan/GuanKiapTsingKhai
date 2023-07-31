@@ -10,8 +10,11 @@
     - 「原俠正楷-T」承上，並使用單一常用正體字取代一對多的簡體字。
     - 「原俠正楷-W」利用常用詞彙庫對比自動選字，盡量顯示正確字體。
     - 「原俠正楷-TW」在自動選字外同時轉換為台灣習慣用語。
-5. 已知問題：在Boox閱讀器內建的neoreader使用，W跟TW這二個自動選字版有時會發生疊字現象，建議使用標準版或S版T版，搭配neoreader內建簡轉繁功能，即可正常使用。
+5. 以上五個字型，各自提供對應之偽直排字型(各單字旋轉90度形成直書排版)。
+6. 已知問題：在Boox閱讀器內建的neoreader使用，自動選字的W跟TW版有時會發生疊字現象，建議使用標準版，搭配neoreader內建簡轉繁及直排功能，即可正常使用。
 
+![原俠正楷範例字/GuanKiapTsingKhai](img/GKTK_Sample_112-00.png)
+![原俠正楷範例字/GuanKiapTsingKhai](img/GKTK_Sample_112-90.png)
 
 ## 引用專案 / 特別感謝
 - 「芫荽」[https://github.com/ButTaiwan/iansui/]
@@ -20,6 +23,7 @@
 - 「otfcc」[https://github.com/caryll/otfcc]
 - 「FontForge」[https://github.com/fontforge/fontforge]
 - 「正確實現簡轉繁字型」[https://ayaka.shn.hk/s2tfont/hant/]
+- 「E-Reader 也能一鍵橫排轉直排? 還不用等待轉檔?」[http://www.vixual.net/blog/archives/713]
 
 
 ## 開源授權規定
@@ -34,4 +38,4 @@
 
 
 ## 最新版本
-V1.11 - (2023/06/08) 對應芫荽及霞鶩新版字型做增字改版，並增加自動選字及台灣習慣用語的簡轉繁版。
+V1.12 - (2023/07/31) 對應芫荽新版字型做改版，並增加偽直排版本。
