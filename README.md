@@ -1,7 +1,7 @@
 # 原俠正楷 / GuanKiapTsingKhai
 
 ## 說明
-1. 結合「芫荽」(ButTaiwan)與「霞鶩文楷輕便版」(lxgw)的字型，只有Regular字重，使用「中文字體簡繁處理工具」(GuiWonder)專案，以及自建詞彙庫合併轉換。
+1. 結合「芫荽」(ButTaiwan)與「霞鶩文楷GB輕便版」(lxgw)的字型，只有Regular字重，使用「中文字體簡繁處理工具」(GuiWonder)專案，以及自建詞彙庫合併轉換。
 2. 「原俠正楷」以芫荽貼近台灣教育部標準正體字八千多字為主體，加上霞鶩文楷輕便版補足不常用字及簡體字。
 3. 名稱採二個字型之首字：芫、霞，取諧音原俠，當下布袋戲大俠閃現腦海，故英文以台語發音拼寫。正字除了筆劃端正、正確(芫荽較接近台標)外，亦希望致敬倪匡先生，感謝他創作了原振俠衛斯理系列…許多有意思的書給大家看。
 4. 標準版以外，另增加四個簡轉繁字型(簡體改以繁體顯示)，由上至下增加繁化調整幅度，簡述如下：
@@ -13,12 +13,12 @@
 5. 以上五個字型，各自提供對應之偽直排字型(各單字旋轉90度形成直書排版)。
 6. 已知問題：使用於特定排版文件如圖文固定位置、多字型混排，或個別開放型閱讀器(如Boox)內建的書庫App(如neoreader)，有時自動選字的W跟TW版會發生疊字、或部份顯示原簡字的狀況。這時建議使用T版，或以標準版搭配App之簡轉繁功能使用。
 
-![原俠正楷範例字/GuanKiapTsingKhai](img/GKTK_Sample_112-00.png)
-![原俠正楷範例字/GuanKiapTsingKhai](img/GKTK_Sample_112-90.png)
+![原俠正楷範例字/GuanKiapTsingKhai](img/GKTK_Sample_120-00.png)
+![原俠正楷範例字/GuanKiapTsingKhai](img/GKTK_Sample_120-90.png)
 
 ## 引用專案 / 特別感謝
 - 「芫荽」[https://github.com/ButTaiwan/iansui/]
-- 「霞鶩文楷輕便版」[https://github.com/lxgw/LxgwWenKai-Lite]
+- 「霞鶩文楷GB輕便版」[https://github.com/lxgw/LxgwWenKaiGB-Lite]
 - 「中文字體簡繁處理工具」[https://github.com/GuiWonder/TCFontCreator]
 - 「otfcc」[https://github.com/caryll/otfcc]
 - 「FontForge」[https://github.com/fontforge/fontforge]
@@ -38,4 +38,4 @@
 
 
 ## 最新版本
-V1.12 - (2023/07/31) 對應芫荽新版字型做改版，並增加偽直排版本。
+V1.20 - (2025/01/31) 對應芫荽及霞鶩新版字型做更新。
